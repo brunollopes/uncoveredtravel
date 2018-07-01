@@ -3,9 +3,17 @@ html {
   height: 100%;
 }
 
+html {
+  background: url(../img/Background01.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .bg {
   /* The image used */
-  background-image: url("../img/background-lake.jpg");
+  background-image: url("../img/Background01.png");
 
   /* Full height */
   height: 100%;
