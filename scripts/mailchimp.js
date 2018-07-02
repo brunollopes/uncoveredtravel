@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
           $("#mce-error-response").show();
         } else {
           //SUCCESS - Do what you like here
-          window.location.replace = "/thankyou.html";
+          window.location.href = "/thankyou.html";
         }
       }
     });
