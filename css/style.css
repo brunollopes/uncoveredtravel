@@ -42,7 +42,7 @@ body {
   }
 
   body {
-     height:100vh;
+    height: 100vh;
   }
 }
 
@@ -61,10 +61,9 @@ body {
   }
 
   body {
-     height:100vh;
+    height: 100vh;
   }
 }
-
 
 .caption {
   font-size: 30px;
@@ -117,4 +116,10 @@ body {
   width: 100%;
   color: white;
   text-align: center;
+}
+
+/** Mailchimp **/
+
+div#mc_embed_signup {
+  background-color: transparent;
 }
